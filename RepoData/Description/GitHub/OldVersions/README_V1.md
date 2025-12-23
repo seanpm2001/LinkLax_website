@@ -1,0 +1,1 @@
+⛓️🌈️🌐️ The official source repository for the website of the LinkLax project, a program extension for text editors and web browsers that adds full customization to hyperlinks, allowing you to change them to different colors or have them be animated.
