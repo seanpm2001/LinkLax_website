@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+⛓️🌈️🌐️ The official source repository for the website of the LinkLax project, a program extension for text editors and web browsers that adds full customization to hyperlinks, allowing you to change them to different colors or have them be animated.
